@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Why Node.js}{}% 1
+\BOOKMARK [1][-]{section.2}{MiniWeb - App}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Architecture in detail}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Used technologies}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Single Threaded}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Scalability}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{CPU intensive operations}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Import Modules}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Socket.IO}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{expressJS}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{?}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Multi-threading}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Traditional Threaded Web Applications}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{NodeJS approach}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Discussion}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Advantages of using NodeJS}{section.6}% 16
+\BOOKMARK [2][-]{subsection.6.2}{Disadvantages of using NodeJS}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.3}{Conclusion}{section.6}% 18
+\BOOKMARK [3][-]{section*.2}{Funding:}{subsection.6.3}% 19

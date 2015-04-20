@@ -454,7 +454,7 @@
   \vspace*{\aboveskipchk}%
   \vspace{\dropfromtop}%
   \hbox to \textwidth{%
-  {\helvetica\itshape\bfseries\fontsize{19}{12}\selectfont {\color{gray}BIOINFORMATICS}
+  {\helvetica\itshape\bfseries\fontsize{19}{12}\selectfont {\color{gray}INFORMATICS}
     \hfil
     \if@appnotes APPLICATIONS NOTE\hfil\fi
     }%
